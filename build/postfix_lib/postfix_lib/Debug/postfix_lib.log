@@ -1,0 +1,8 @@
+﻿  Postfix.cpp
+c:\users\dstavrov\documents\labs\mp2-practice\stavrov_d\lab_1\src\postfix.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\dstavrov\documents\labs\mp2-practice\stavrov_d\lab_1\src\postfix.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\dstavrov\documents\labs\mp2-practice\stavrov_d\lab_1\include\stack.h(44): warning C4101: 'ex': unreferenced local variable
+  c:\users\dstavrov\documents\labs\mp2-practice\stavrov_d\lab_1\include\stack.h(39): note: while compiling class template member function 'char Stack<char>::pop(void)'
+  c:\users\dstavrov\documents\labs\mp2-practice\stavrov_d\lab_1\src\postfix.cpp(35): note: see reference to function template instantiation 'char Stack<char>::pop(void)' being compiled
+  c:\users\dstavrov\documents\labs\mp2-practice\stavrov_d\lab_1\src\postfix.cpp(30): note: see reference to class template instantiation 'Stack<char>' being compiled
+  postfix_lib.vcxproj -> C:\Users\dstavrov\Documents\labs\mp2-practice\Stavrov_D\lab_1\build\postfix_lib\Debug\postfix_lib.lib
